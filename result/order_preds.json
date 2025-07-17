@@ -1,0 +1,3817 @@
+{
+    "primock57_1_5": [
+        {
+            "order_type": "medication",
+            "description": "Trimethoprim",
+            "reason": "to treat possible urine infection",
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "review symptoms and assess need for further testing",
+            "reason": "if symptoms worsen or do not improve",
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": "pregnancy test",
+            "reason": "to rule out pregnancy as a possible cause of symptoms",
+            "provenance": [
+                158,
+                161
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Paracetamol",
+            "reason": "for pain relief",
+            "provenance": [
+                166
+            ]
+        }
+    ],
+    "acibench_D2N188_aci_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "meloxicam 15mg once a day",
+            "reason": "to treat ankle sprain",
+            "provenance": [
+                58
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up in a couple of weeks if not feeling better",
+            "reason": "to assess progress",
+            "provenance": [
+                58
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "not specified",
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "imaging",
+            "description": "X-ray of right ankle",
+            "reason": "to check for fracture or bony abnormality",
+            "provenance": [
+                54
+            ]
+        }
+    ],
+    "primock57_2_1": [
+        {
+            "order_type": "followup",
+            "description": "hearing loss in left ear",
+            "reason": "difficulty hearing in left ear",
+            "provenance": [
+                2,
+                18,
+                27,
+                31,
+                38,
+                40,
+                68,
+                70,
+                84
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "ear examination",
+            "reason": "to check for physical blockage",
+            "provenance": [
+                49,
+                52,
+                54,
+                57,
+                60,
+                61,
+                66,
+                77,
+                80,
+                83,
+                105
+            ]
+        }
+    ],
+    "acibench_D2N079_aci_valid": [
+        {
+            "order_type": "imaging",
+            "description": "left shoulder MRI",
+            "reason": "to be sure that there is nothing else going on with your shoulder",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy for approximately six to eight weeks",
+            "reason": "to help strengthen your muscles",
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue to take Tylenol",
+            "reason": "for pain relief",
+            "provenance": [
+                16
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up visit with me after physical therapy",
+            "reason": "to assess progress",
+            "provenance": [
+                35
+            ]
+        }
+    ],
+    "acibench_D2N069_virtassist_valid": [
+        {
+            "order_type": "medication",
+            "description": "Motrin 800mg",
+            "reason": "for pain management",
+            "provenance": [
+                76,
+                77,
+                78
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up in a week",
+            "reason": "to assess improvement",
+            "provenance": [
+                74
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "MRI",
+            "reason": "if symptoms persist",
+            "provenance": [
+                74
+            ]
+        }
+    ],
+    "acibench_D2N036_aci_train": [
+        {
+            "order_type": "medication",
+            "description": "ibuprofen",
+            "reason": "take ibuprofen six hundred milligrams every six hours",
+            "provenance": [
+                39
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow up",
+            "reason": "see you back here in the office in two weeks",
+            "provenance": [
+                39
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "emg",
+            "reason": "we will follow up with that",
+            "provenance": [
+                37
+            ]
+        }
+    ],
+    "acibench_D2N202_aci_clef_taskC_test3": [
+        {
+            "order_type": "imaging",
+            "description": "MRI of right shoulder",
+            "reason": "to make sure that nothing else is going on",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "medication",
+            "description": "NSAID (e.g. Advil)",
+            "reason": "for pain",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Tylenol",
+            "reason": "for pain",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy",
+            "reason": "for rotator cuff tendinopathy",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "doctor's appointment",
+            "reason": "to evaluate progress",
+            "provenance": [
+                29
+            ]
+        }
+    ],
+    "acibench_D2N172_virtassist_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "Zoloft 50 milligrams daily",
+            "reason": "refill",
+            "provenance": [
+                78,
+                80
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "check back in about a month and then in about three months",
+            "reason": null,
+            "provenance": [
+                84
+            ]
+        }
+    ],
+    "acibench_D2N033_aci_train": [
+        {
+            "order_type": "medication",
+            "description": "Mobic",
+            "reason": "to try to get some of the swelling down and as a pain reliever",
+            "provenance": [
+                33
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hemoglobin A1C",
+            "reason": "to recheck",
+            "provenance": [
+                35
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "metformin",
+            "reason": "refill",
+            "provenance": [
+                35
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "MRI",
+            "reason": "to see if there's any other damage to the knee",
+            "provenance": [
+                33
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N194_aci_clef_taskC_test3": [
+        {
+            "order_type": "imaging",
+            "description": "MRI of left shoulder",
+            "reason": "to make sure nothing else is going on with that left shoulder",
+            "provenance": [
+                37
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy for approximately six to eight weeks",
+            "reason": "to address rotator cuff tendinopathy",
+            "provenance": [
+                40
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue taking Tylenol p.r.n.",
+            "reason": "for pain management",
+            "provenance": [
+                39
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "review of symptoms in two weeks",
+            "reason": "to assess effectiveness of treatment plan",
+            "provenance": [
+                44
+            ]
+        }
+    ],
+    "acibench_D2N013_virtassist_train": [
+        {
+            "order_type": "medication",
+            "description": "metformin 500 mg twice a day",
+            "reason": "newly diagnosed diabetes",
+            "provenance": [
+                54
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hemoglobin a1c",
+            "reason": "future monitoring",
+            "provenance": [
+                52,
+                58
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "epilepsy",
+            "reason": "continue keppra",
+            "provenance": [
+                67
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "anxiety",
+            "reason": "consider new treatment",
+            "provenance": [
+                60,
+                63
+            ]
+        }
+    ],
+    "acibench_D2N071_virtassist_valid": [
+        {
+            "order_type": "medication",
+            "description": "Prozac 20 milligrams a day",
+            "reason": "to continue current strategy for depression",
+            "provenance": [
+                77
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "echocardiogram",
+            "reason": "to evaluate systolic ejection murmur",
+            "provenance": [
+                90
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "routine blood work",
+            "reason": null,
+            "provenance": [
+                92
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N048_aci_train": [
+        {
+            "order_type": "imaging",
+            "description": "X-ray of right foot",
+            "reason": "\"subtle dorsal displacement of the base of the second metatarsal with a three millimeter separation of the first and second metatarsal bases and the presence of a bony fragment in the lisfranc joint space\"",
+            "provenance": [
+                32
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "MRI of right foot",
+            "reason": "\"to further assess the fracture and any injury to the ligaments\"",
+            "provenance": [
+                32
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy",
+            "reason": "\"to strengthen the muscles and make sure that you're at peak performance\"",
+            "provenance": [
+                48
+            ]
+        },
+        {
+            "order_type": "surgery",
+            "description": "surgery for Lisfranc fracture",
+            "reason": "\"to place the bones in their proper positions using plates and screws\"",
+            "provenance": [
+                32
+            ]
+        }
+    ],
+    "primock57_5_1": [
+        {
+            "order_type": "medication",
+            "description": "Ibuprofen",
+            "reason": "to help with headache",
+            "provenance": []
+        }
+    ],
+    "primock57_5_6": [
+        {
+            "order_type": "lab",
+            "description": "stool sample",
+            "reason": "to check for bacterial infection",
+            "provenance": [
+                132
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "rehydration salts",
+            "reason": "to help with hydration",
+            "provenance": [
+                146
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "advice on taking tiny sips of rehydration salts and simple food",
+            "reason": "to manage symptoms",
+            "provenance": [
+                166
+            ]
+        }
+    ],
+    "acibench_D2N159_aci_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "Ibuprofen",
+            "reason": "to help with pain",
+            "provenance": [
+                35
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "nerve conduction study",
+            "reason": "to check for carpal tunnel syndrome",
+            "provenance": [
+                37
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": "EMG",
+            "reason": "to check nerve conduction",
+            "provenance": [
+                37
+            ]
+        }
+    ],
+    "acibench_D2N004_virtassist_train": [
+        {
+            "order_type": "medication",
+            "description": "meloxicam 15 milligrams once a day",
+            "reason": "to treat acute lumbar strain",
+            "provenance": [
+                136
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "metformin 1000 milligrams twice daily",
+            "reason": "to treat type 2 diabetes",
+            "provenance": [
+                145
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hemoglobin a1c",
+            "reason": "to monitor diabetes control",
+            "provenance": [
+                148,
+                151
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "mri",
+            "reason": "to rule out disc herniation",
+            "provenance": [
+                137,
+                140
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "lisinopril 20 milligrams once a day",
+            "reason": "refill",
+            "provenance": [
+                159
+            ]
+        }
+    ],
+    "acibench_D2N180_virtscribe_clef_taskC_test3": [
+        {
+            "order_type": "lab",
+            "description": "EMG",
+            "reason": null,
+            "provenance": [
+                74
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "NCV",
+            "reason": null,
+            "provenance": [
+                74
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "bilateral carpal tunnel syndrome",
+            "reason": "\"question of bilateral cubital tunnel syndrome\"",
+            "provenance": [
+                73
+            ]
+        }
+    ],
+    "primock57_5_2": [
+        {
+            "order_type": "medication",
+            "description": "antibiotic",
+            "reason": "to treat urine infection",
+            "provenance": [
+                106
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "urine test",
+            "reason": "not explicitly mentioned but implied as necessary for diagnosis",
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "review of symptoms and response to treatment",
+            "reason": "if symptoms worsen or persist",
+            "provenance": [
+                140,
+                142
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "sachets to change acidity of urine",
+            "reason": "to help with urine infection",
+            "provenance": [
+                128,
+                130
+            ]
+        }
+    ],
+    "acibench_D2N143_virtscribe_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "lab",
+            "description": "std testing",
+            "reason": "patient wants to be evaluated for all stds due to partner's infidelity",
+            "provenance": [
+                4,
+                8,
+                73
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "gonorrhea testing",
+            "reason": "patient wants to be evaluated for all stds due to partner's infidelity",
+            "provenance": [
+                4,
+                8,
+                73
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "chlamydia testing",
+            "reason": "patient wants to be evaluated for all stds due to partner's infidelity",
+            "provenance": [
+                4,
+                8,
+                73
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "trichomoniasis testing",
+            "reason": "patient wants to be evaluated for all stds due to partner's infidelity",
+            "provenance": [
+                4,
+                8,
+                73
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "syphilis testing",
+            "reason": "patient wants to be evaluated for all stds due to partner's infidelity",
+            "provenance": [
+                4,
+                8,
+                73
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hiv testing",
+            "reason": "patient wants to be evaluated for all stds due to partner's infidelity",
+            "provenance": [
+                4,
+                8,
+                73
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hepatitis c testing",
+            "reason": "patient wants to be evaluated for all stds due to partner's infidelity",
+            "provenance": [
+                4,
+                8,
+                73
+            ]
+        }
+    ],
+    "acibench_D2N147_aci_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "imaging",
+            "description": "right shoulder x-ray",
+            "reason": "to check for injury",
+            "provenance": [
+                43
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "CAT scan of right shoulder",
+            "reason": "to get a better look of the joint",
+            "provenance": [
+                43
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "meloxicam 15mg once a day",
+            "reason": "for pain",
+            "provenance": [
+                43
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy",
+            "reason": "to strengthen shoulder",
+            "provenance": [
+                43
+            ]
+        }
+    ],
+    "primock57_2_7": [
+        {
+            "order_type": "lab",
+            "description": "ECG",
+            "reason": "suspected heart attack",
+            "provenance": [
+                28,
+                30,
+                31,
+                48,
+                50,
+                54,
+                61,
+                64,
+                80,
+                84,
+                90,
+                98,
+                100,
+                105,
+                120,
+                121
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "ECG",
+            "reason": "suspected heart attack",
+            "provenance": [
+                121,
+                128
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "aspirin",
+            "reason": "allergic reaction",
+            "provenance": [
+                136,
+                140,
+                149
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "monitoring",
+            "reason": "suspected heart attack",
+            "provenance": [
+                67,
+                68,
+                125,
+                126
+            ]
+        }
+    ],
+    "acibench_D2N127_aci_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "imaging",
+            "description": "MRI of the neck",
+            "reason": "to further evaluate the neck pain and possible injury",
+            "provenance": [
+                71
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Robaxin (1500mg",
+            "reason": "every 6-8 hours)",
+            "provenance": [
+                73
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Physical therapy",
+            "reason": "to help with pain and mobility",
+            "provenance": [
+                75
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Referral to pain medicine",
+            "reason": "to explore additional treatment options",
+            "provenance": [
+                75
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Local injections",
+            "reason": "to potentially help with pain",
+            "provenance": [
+                75
+            ]
+        }
+    ],
+    "acibench_D2N175_virtassist_clef_taskC_test3": [
+        {
+            "order_type": "lab",
+            "description": "lipid panel",
+            "reason": "to see what that",
+            "provenance": [
+                96
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Jardiance 10 milligrams a day",
+            "reason": "to help get that hemoglobin a1c down",
+            "provenance": [
+                91,
+                98,
+                99
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "diabetes management",
+            "reason": "to get that hemoglobin a1c down the next time",
+            "provenance": [
+                95
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "CBC",
+            "reason": "CMP",
+            "provenance": [
+                97
+            ]
+        }
+    ],
+    "acibench_D2N056_aci_train": [
+        {
+            "order_type": "lab",
+            "description": "pulmonary function test",
+            "reason": "to assess how severe your respiratory impairment is",
+            "provenance": [
+                33
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "cat scan of your lungs",
+            "reason": "to confirm the diagnosis",
+            "provenance": [
+                33
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "oral steroid",
+            "reason": "to decrease the inflammation that is occurring in your lungs",
+            "provenance": [
+                33
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": null,
+            "reason": null,
+            "provenance": [
+                40
+            ]
+        }
+    ],
+    "primock57_3_9": [
+        {
+            "order_type": "imaging",
+            "description": "Brain scan",
+            "reason": "to investigate possible multiple sclerosis",
+            "provenance": [
+                178
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "Neurology referral",
+            "reason": "to investigate possible multiple sclerosis",
+            "provenance": [
+                178
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Multiple sclerosis investigation",
+            "reason": "to determine if patient has multiple sclerosis",
+            "provenance": [
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205
+            ]
+        }
+    ],
+    "acibench_D2N154_aci_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "Ibuprofen",
+            "reason": "to reduce inflammation and alleviate pain",
+            "provenance": [
+                43
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up appointment in 7-10 days",
+            "reason": "to monitor progress",
+            "provenance": [
+                43
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "imaging",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N201_aci_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "pain medication",
+            "reason": "can you get pain pills too",
+            "provenance": [
+                92
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "corticosteroid injection",
+            "reason": "we could yeah we could give you something to help calm down like the anxiety",
+            "provenance": [
+                85
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "spinal injection",
+            "reason": "it's gon na happen under fluoroscopy",
+            "provenance": [
+                103
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "surgery",
+            "reason": "however i would maybe recommend surgery",
+            "provenance": [
+                97
+            ]
+        }
+    ],
+    "acibench_D2N084_aci_valid": [
+        {
+            "order_type": "lab",
+            "description": "renal artery ultrasound",
+            "reason": "to ensure no underlying conditions",
+            "provenance": [
+                33
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue bumex",
+            "reason": "for hypertension management",
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue cozaar",
+            "reason": "for hypertension management",
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue norvasc",
+            "reason": "for hypertension management",
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "nutrition consult",
+            "reason": "to monitor diet",
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "weigh daily",
+            "reason": "to monitor fluid status",
+            "provenance": [
+                32
+            ]
+        }
+    ],
+    "acibench_D2N179_virtscribe_clef_taskC_test3": [
+        {
+            "order_type": "lab",
+            "description": "EMG test",
+            "reason": "to determine exactly where the nerve irritation is coming from",
+            "provenance": [
+                69
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up visit",
+            "reason": "if you're still having symptoms",
+            "provenance": [
+                74
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up visit",
+            "reason": "to come back after those studies",
+            "provenance": [
+                77
+            ]
+        }
+    ],
+    "acibench_D2N138_virtscribe_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "change medication from Wixela to Alvesco",
+            "reason": "patient needs to use it for asthma",
+            "provenance": [
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue using Albuterol as needed",
+            "reason": "no changes",
+            "provenance": [
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                195,
+                196
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue using Zyrtec as needed",
+            "reason": "no changes",
+            "provenance": [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                187,
+                188,
+                189
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "refill Epipen",
+            "reason": "patient has a known peanut allergy",
+            "provenance": [
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                184,
+                197
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up in 4 months with ACT and spirometry",
+            "reason": "to monitor asthma",
+            "provenance": [
+                201,
+                205
+            ]
+        }
+    ],
+    "acibench_D2N045_aci_train": [
+        {
+            "order_type": "medication",
+            "description": "Ibuprofen 200mg and Tylenol 500mg",
+            "reason": "pain and inflammation management",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up appointment",
+            "reason": "check on improvement",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "imaging",
+            "description": "X-rays",
+            "reason": "joint space evaluation",
+            "provenance": [
+                27
+            ]
+        }
+    ],
+    "acibench_D2N195_aci_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "Meloxicam",
+            "reason": "to help with pain and swelling",
+            "provenance": [
+                45
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Norvasc",
+            "reason": "increased dosage",
+            "provenance": [
+                47
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "Blood sugar log",
+            "reason": "to track daily blood sugars",
+            "provenance": [
+                47
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Knee immobilizer",
+            "reason": "to stabilize knee",
+            "provenance": [
+                45
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "MRI",
+            "reason": "to determine extent of MCL strain",
+            "provenance": [
+                45
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Nutrition consult",
+            "reason": "to improve diet",
+            "provenance": [
+                47
+            ]
+        }
+    ],
+    "primock57_2_3": [
+        {
+            "order_type": "imaging",
+            "description": "hearing loss and facial numbness assessment",
+            "reason": "needs further evaluation",
+            "provenance": [
+                136,
+                144,
+                150
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "face-to-face appointment in one of our clinics",
+            "reason": "to confirm diagnosis and rule out serious conditions",
+            "provenance": [
+                150,
+                154,
+                161
+            ]
+        }
+    ],
+    "acibench_D2N078_aci_valid": [
+        {
+            "order_type": "medication",
+            "description": "Ibuprofen 800mg twice a day for knee pain and swelling",
+            "reason": "to help with swelling and pain",
+            "provenance": [
+                35
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Lisinopril 20mg",
+            "reason": "to manage hypertension",
+            "provenance": [
+                35
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Nutrition referral",
+            "reason": "to help with diet and hypertension management",
+            "provenance": [
+                35
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "imaging",
+            "description": "X-ray of right knee",
+            "reason": "no fractures or bony abnormalities found",
+            "provenance": [
+                35
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N137_virtassist_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "lisinopril 10mg",
+            "reason": "hypertension",
+            "provenance": [
+                87
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "check blood pressure",
+            "reason": null,
+            "provenance": [
+                88
+            ]
+        }
+    ],
+    "primock57_1_9": [
+        {
+            "order_type": "medication",
+            "description": "Urinary Tract Infection treatment",
+            "reason": "to treat the infection",
+            "provenance": [
+                141,
+                142,
+                145
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Review of symptoms",
+            "reason": "if still not better by the end of the week",
+            "provenance": [
+                153,
+                154
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "Pregnancy test",
+            "reason": "to rule out pregnancy",
+            "provenance": [
+                86
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "Urine test",
+            "reason": "not explicitly mentioned but implied as part of the examination",
+            "provenance": [
+                135
+            ]
+        }
+    ],
+    "primock57_1_11": [
+        {
+            "order_type": "lab",
+            "description": "gastrointestinal infection",
+            "reason": "because of symptoms like diarrhea",
+            "provenance": [
+                234,
+                237,
+                239,
+                245,
+                253,
+                260,
+                261
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Paracetamol",
+            "reason": "for fever and tummy pain",
+            "provenance": [
+                162,
+                259,
+                275
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Diarolyte",
+            "reason": "for fluid replacement",
+            "provenance": [
+                254,
+                256,
+                266
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "review of symptoms in 1-2 days",
+            "reason": "to check for dehydration and need for further investigations",
+            "provenance": [
+                260,
+                262,
+                280
+            ]
+        }
+    ],
+    "primock57_5_3": [
+        {
+            "order_type": null,
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": "blood tests",
+            "reason": "to make sure that there's not something triggering off palpitations",
+            "provenance": [
+                163
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "GP follow-up",
+            "reason": "to go through the results of blood tests",
+            "provenance": [
+                164
+            ]
+        }
+    ],
+    "acibench_D2N116_aci_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "imaging",
+            "description": "Shoulder X-ray",
+            "reason": "No fracture found",
+            "provenance": [
+                28
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "MRI",
+            "reason": "To check for rotator cuff tendinopathy",
+            "provenance": [
+                28
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Physical therapy for shoulder",
+            "reason": "To treat rotator cuff tendinopathy",
+            "provenance": [
+                28
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Tylenol",
+            "reason": "For pain management",
+            "provenance": [
+                28
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Steroid injection",
+            "reason": "Consider if symptoms don't improve",
+            "provenance": [
+                28
+            ]
+        }
+    ],
+    "acibench_D2N184_virtscribe_clef_taskC_test3": [
+        {
+            "order_type": "followup",
+            "description": "knee status post right medial unicompartmental arthroplasty",
+            "reason": "patient reports numbness on the side of the knee",
+            "provenance": [
+                11
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "knee",
+            "reason": "patient has numbness on the side of the knee",
+            "provenance": [
+                11
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy",
+            "reason": "to work on strength",
+            "provenance": [
+                38
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "telemedicine visit",
+            "reason": "to check in and see how patient is doing",
+            "provenance": [
+                46
+            ]
+        }
+    ],
+    "acibench_D2N117_aci_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "medication",
+            "description": "ultram",
+            "reason": "to help with elbow pain",
+            "provenance": [
+                51
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "metformin",
+            "reason": "increased to one thousand milligrams twice per day for diabetes type two",
+            "provenance": [
+                51
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hemoglobin a1c level",
+            "reason": "to check blood sugar control",
+            "provenance": [
+                51
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "cbc blood test",
+            "reason": "to check blood cell count",
+            "provenance": [
+                51
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "chem-12 blood test",
+            "reason": "to check chemistry levels",
+            "provenance": [
+                51
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "albuterol",
+            "reason": "refill for asthma",
+            "provenance": [
+                51
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up appointment",
+            "reason": "to reevaluate elbow in four weeks",
+            "provenance": [
+                51
+            ]
+        }
+    ],
+    "acibench_D2N087_aci_valid": [
+        {
+            "order_type": "medication",
+            "description": "doxycycline 100mg twice a day",
+            "reason": "possible lyme disease",
+            "provenance": [
+                68
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "lisinopril 20mg once a day",
+            "reason": "hypertension",
+            "provenance": [
+                74
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "metformin 1000mg twice a day",
+            "reason": "diabetes",
+            "provenance": [
+                76
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "lyme titer and western blot",
+            "reason": "possible lyme disease",
+            "provenance": [
+                68
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "lipid panel",
+            "reason": "hypertension",
+            "provenance": [
+                74
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hemoglobin a1c",
+            "reason": "diabetes",
+            "provenance": [
+                76
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "basic metabolic panel",
+            "reason": "kidney function",
+            "provenance": [
+                78
+            ]
+        }
+    ],
+    "acibench_D2N058_aci_train": [
+        {
+            "order_type": "medication",
+            "description": "aspirin 81mg daily",
+            "reason": "to continue medication for coronary artery disease",
+            "provenance": [
+                37
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "brilinta 90mg twice daily",
+            "reason": "to continue medication for coronary artery disease",
+            "provenance": [
+                37
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "atorvastatin 80mg daily",
+            "reason": "to continue medication for coronary artery disease",
+            "provenance": [
+                37
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "toprol 50mg daily",
+            "reason": "to continue medication for coronary artery disease",
+            "provenance": [
+                37
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "lisinopril 20mg daily",
+            "reason": "to continue medication for left ventricular dysfunction",
+            "provenance": [
+                40
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "aldactone 12.5mg daily",
+            "reason": "to treat left ventricular dysfunction",
+            "provenance": [
+                40
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "echocardiogram in 2 months",
+            "reason": "to monitor left ventricular dysfunction",
+            "provenance": [
+                40
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "lab test next week",
+            "reason": "to monitor medication and condition",
+            "provenance": [
+                40
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "lab test",
+            "reason": "to monitor condition",
+            "provenance": [
+                40
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "cardiac rehab",
+            "reason": "to educate and improve exercise",
+            "provenance": [
+                37
+            ]
+        }
+    ],
+    "acibench_D2N003_virtassist_train": [
+        {
+            "order_type": "imaging",
+            "description": "CT scan of abdomen and pelvis",
+            "reason": "possible kidney stone",
+            "provenance": [
+                88
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Ultram 50 milligrams",
+            "reason": "pain management",
+            "provenance": [
+                91
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Protonix 40 milligrams daily",
+            "reason": "acid reflux",
+            "provenance": [
+                100
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "none",
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N163_aci_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "lab",
+            "description": "full cholesterol panel",
+            "reason": null,
+            "provenance": [
+                49
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "glucose",
+            "reason": null,
+            "provenance": [
+                49
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "complete metabolic panel",
+            "reason": null,
+            "provenance": [
+                49
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "thyroid studies",
+            "reason": null,
+            "provenance": [
+                49
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "liver panels",
+            "reason": null,
+            "provenance": [
+                49
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "genetic testing",
+            "reason": null,
+            "provenance": [
+                49
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up in 3 to 6 months",
+            "reason": "to check cholesterol level after dietary changes",
+            "provenance": [
+                51
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "meeting a nutritionist",
+            "reason": "to get information about a well-balanced diet",
+            "provenance": [
+                49
+            ]
+        }
+    ],
+    "acibench_D2N100_virtscribe_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "medication",
+            "description": "adapalene 0.1% cream",
+            "reason": "to treat acne",
+            "provenance": [
+                64,
+                68
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "mild cleanser",
+            "reason": "for skin care",
+            "provenance": [
+                65
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "moisturizer (noncomedogenic with sunscreen spf 30 or higher)",
+            "reason": "for skin care",
+            "provenance": [
+                65,
+                66,
+                72
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "clean and clear persa-gel",
+            "reason": "as alternative to adapalene",
+            "provenance": [
+                71
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "check progress of acne treatment",
+            "reason": "in six months",
+            "provenance": [
+                78
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "imaging",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N106_aci_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "medication",
+            "description": "asthma symptoms management",
+            "reason": "to help decrease the occurrences of asthma",
+            "provenance": [
+                56
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "allergic asthma treatment",
+            "reason": "to continue",
+            "provenance": [
+                56
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "allergy testing",
+            "reason": "to target what the triggers",
+            "provenance": [
+                60
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "skin testing",
+            "reason": "to schedule",
+            "provenance": [
+                62
+            ]
+        }
+    ],
+    "acibench_D2N141_virtscribe_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "followup",
+            "description": "adult hydrocephalus",
+            "reason": "progressive gait impairment",
+            "provenance": [
+                7
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "shunt surgery",
+            "reason": "no issues with sores from wearing diaper",
+            "provenance": [
+                41,
+                42,
+                43,
+                59
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "improvement in walking",
+            "reason": "bladder control",
+            "provenance": [
+                23,
+                24,
+                30,
+                36,
+                37
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "CT scan",
+            "reason": "tiny bit of blood fluid collection in right parietal region",
+            "provenance": [
+                55,
+                56
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "no improvement in movement speed for driving",
+            "reason": "68",
+            "provenance": [
+                69
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "continued follow-up for adult hydrocephalus",
+            "reason": "7",
+            "provenance": [
+                8
+            ]
+        }
+    ],
+    "acibench_D2N139_virtscribe_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "spironolactone",
+            "reason": "to treat resistant hypertension",
+            "provenance": [
+                88
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue benicar hct and amlodipine",
+            "reason": "for hypertension management",
+            "provenance": [
+                30,
+                34
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "metabolic panel",
+            "reason": "to monitor potassium and sodium",
+            "provenance": [
+                158
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "in two weeks",
+            "reason": "to check blood pressure and electrolytes",
+            "provenance": [
+                131
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "with resistant hypertension clinic",
+            "reason": "if spironolactone does not work",
+            "provenance": [
+                132
+            ]
+        }
+    ],
+    "acibench_D2N029_virtscribe_train": [
+        {
+            "order_type": "imaging",
+            "description": "ultrasound of right groin lymph node",
+            "reason": "to confirm it's nothing",
+            "provenance": [
+                54
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "regular follow-up with dermatologist",
+            "reason": null,
+            "provenance": [
+                69,
+                72,
+                100
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N052_aci_train": [
+        {
+            "order_type": "medication",
+            "description": "ibuprofen 800mg",
+            "reason": "for pain",
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "BMP",
+            "reason": null,
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "urinalysis",
+            "reason": null,
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "urine culture",
+            "reason": null,
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up in a week or two",
+            "reason": null,
+            "provenance": [
+                29
+            ]
+        }
+    ],
+    "acibench_D2N192_aci_clef_taskC_test3": [
+        {
+            "order_type": "lab",
+            "description": "blood tests (CBC",
+            "reason": "Chem 12",
+            "provenance": [
+                47
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "right upper quadrant ultrasound",
+            "reason": null,
+            "provenance": [
+                47
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "refill lisinopril 20mg/day",
+            "reason": "hypertension management",
+            "provenance": [
+                41
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "refill sumatriptan",
+            "reason": "migraine management",
+            "provenance": [
+                50
+            ]
+        }
+    ],
+    "acibench_D2N171_virtassist_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "continue aspirin and toprol",
+            "reason": "for coronary artery disease management",
+            "provenance": [
+                71
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "start crestor 20 mg once a day",
+            "reason": "for coronary artery disease management",
+            "provenance": [
+                74
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "cardiac stress test",
+            "reason": "to evaluate for blockages causing chest discomfort",
+            "provenance": [
+                72
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "lipid panel",
+            "reason": "to assess cholesterol levels",
+            "provenance": [
+                74
+            ]
+        }
+    ],
+    "acibench_D2N134_virtassist_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "Doxycycline 100mg twice a day for 3 weeks",
+            "reason": "newly diagnosed lyme disease",
+            "provenance": [
+                106
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue Metformin",
+            "reason": "type 2 diabetes management",
+            "provenance": [
+                54
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Lisinopril 10mg daily",
+            "reason": "high blood pressure management",
+            "provenance": [
+                66,
+                123
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "Hemoglobin A1C",
+            "reason": "to monitor diabetes",
+            "provenance": [
+                112,
+                114
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "Lyme titer",
+            "reason": "to confirm diagnosis",
+            "provenance": [
+                96,
+                97
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "Lipid panel",
+            "reason": "to monitor hypertension",
+            "provenance": [
+                117
+            ]
+        }
+    ],
+    "acibench_D2N097_virtassist_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "medication",
+            "description": "lisinopril 20 milligrams a day",
+            "reason": "to manage high blood pressure",
+            "provenance": [
+                75
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "annual exam and depression management",
+            "reason": "patient doing well with current strategies",
+            "provenance": [
+                70,
+                71,
+                72,
+                73,
+                74
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "mammogram",
+            "reason": "due for annual screening",
+            "provenance": [
+                78
+            ]
+        }
+    ],
+    "acibench_D2N123_aci_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "lab",
+            "description": "hemoglobin a1c",
+            "reason": "to check for diabetes control",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "kidney function",
+            "reason": "to check for kidney function",
+            "provenance": [
+                28
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "prilosec",
+            "reason": "for reflux",
+            "provenance": [
+                26
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "endoscopy",
+            "reason": "to examine the esophagus",
+            "provenance": [
+                26
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up appointment",
+            "reason": "to review test results and adjust treatment plan",
+            "provenance": [
+                28
+            ]
+        },
+        {
+            "order_type": "referral",
+            "description": "gastroenterology",
+            "reason": "to evaluate swallowing difficulty",
+            "provenance": [
+                26
+            ]
+        },
+        {
+            "order_type": "referral",
+            "description": "ophthalmology",
+            "reason": "to check for diabetic retinopathy",
+            "provenance": [
+                28
+            ]
+        }
+    ],
+    "primock57_1_7": [
+        {
+            "order_type": null,
+            "description": null,
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N111_aci_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "medication",
+            "description": "meloxicam",
+            "reason": "for pain and swelling due to lateral ligament strain",
+            "provenance": [
+                61
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "a1c",
+            "reason": "to assess long-term blood sugar control",
+            "provenance": [
+                61
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "lipid panel",
+            "reason": "to assess cholesterol levels",
+            "provenance": [
+                61
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "x-ray",
+            "reason": "to evaluate knee injury",
+            "provenance": [
+                61
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy",
+            "reason": "to strengthen muscles around the knee",
+            "provenance": [
+                61
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "lisinopril",
+            "reason": "continue current dosage for hypertension",
+            "provenance": [
+                61
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "echo",
+            "reason": "to evaluate heart function due to hypertension",
+            "provenance": [
+                61
+            ]
+        }
+    ],
+    "acibench_D2N032_virtscribe_train": [
+        {
+            "order_type": "medication",
+            "description": "Cortisone",
+            "reason": "pain relief",
+            "provenance": [
+                171
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Review condition and adjust treatment",
+            "reason": null,
+            "provenance": [
+                174,
+                196
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "X-ray",
+            "reason": "Degenerative joint disease",
+            "provenance": [
+                190
+            ]
+        }
+    ],
+    "acibench_D2N166_aci_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "injection with strong nsaid and corticosteroid",
+            "reason": "to help with inflammation causing pain",
+            "provenance": [
+                63
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N035_aci_train": [
+        {
+            "order_type": "lab",
+            "description": "renal artery ultrasound",
+            "reason": "to check for renal artery stenosis",
+            "provenance": [
+                54
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue bumex 2mg once daily",
+            "reason": "for congestive heart failure",
+            "provenance": [
+                52
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue cozaar 100mg daily",
+            "reason": "for hypertension",
+            "provenance": [
+                54
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue norvasc 5mg once daily",
+            "reason": "for hypertension",
+            "provenance": [
+                54
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "see a nutritionist",
+            "reason": "for dietary education",
+            "provenance": [
+                52
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "see doctor again in 3 months",
+            "reason": "for follow-up",
+            "provenance": [
+                54
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "get more labs",
+            "reason": "to check kidney function",
+            "provenance": [
+                54
+            ]
+        }
+    ],
+    "acibench_D2N062_aci_train": [
+        {
+            "order_type": "medication",
+            "description": "Protonix",
+            "reason": "to help with esophagitis symptoms",
+            "provenance": [
+                19
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Carafate",
+            "reason": "to coat the lining of the esophagus and stomach",
+            "provenance": [
+                23
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "Upper Endoscopy",
+            "reason": "to check for other potential issues",
+            "provenance": [
+                23
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Follow-up appointment",
+            "reason": "to review endoscopy results and assess symptom improvement",
+            "provenance": [
+                23
+            ]
+        }
+    ],
+    "acibench_D2N129_virtassist_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "lab",
+            "description": "Hemoglobin A1C",
+            "reason": "elevated blood sugars",
+            "provenance": []
+        },
+        {
+            "order_type": "medication",
+            "description": "continue current medication",
+            "reason": "no changes",
+            "provenance": []
+        }
+    ],
+    "acibench_D2N170_virtassist_clef_taskC_test3": [
+        {
+            "order_type": "lab",
+            "description": "anemia workup",
+            "reason": "low hemoglobin level",
+            "provenance": [
+                92
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "endoscopy and colonoscopy",
+            "reason": "to investigate low hemoglobin level",
+            "provenance": [
+                102
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue Toprol",
+            "reason": "continue lisinopril",
+            "provenance": [
+                109
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "review anemia labs",
+            "reason": "determine further workup",
+            "provenance": [
+                101,
+                103
+            ]
+        }
+    ],
+    "primock57_2_2": [
+        {
+            "order_type": "medication",
+            "description": "Ibuprofen",
+            "reason": "to treat inflammation and pain",
+            "provenance": [
+                190
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "blood tests",
+            "reason": "to check for inflammatory markers",
+            "provenance": [
+                131,
+                136,
+                139
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "review of joint and blood test results",
+            "reason": "to assess condition and determine next steps",
+            "provenance": [
+                145,
+                203
+            ]
+        }
+    ],
+    "acibench_D2N009_virtassist_train": [
+        {
+            "order_type": "medication",
+            "description": "Meloxicam 15mg once a day",
+            "reason": "to treat lumbar strain",
+            "provenance": [
+                89
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Ultram 50mg every 4 hours as needed",
+            "reason": "to treat lumbar strain",
+            "provenance": [
+                89
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "MRI of lumbar spine",
+            "reason": "to be sure of diagnosis",
+            "provenance": [
+                84
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Physical therapy",
+            "reason": "to follow up on treatment",
+            "provenance": [
+                91
+            ]
+        }
+    ],
+    "primock57_2_4": [
+        {
+            "order_type": "lab",
+            "description": "Chest X-ray",
+            "reason": "to check for pneumonia or lung infection",
+            "provenance": []
+        },
+        {
+            "order_type": "medication",
+            "description": "antibiotic",
+            "reason": "to treat potential chest infection",
+            "provenance": []
+        }
+    ],
+    "acibench_D2N186_aci_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "Meloxicam",
+            "reason": "for pain management",
+            "provenance": [
+                53
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Demerol",
+            "reason": "for pain management",
+            "provenance": [
+                57
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Physical therapy",
+            "reason": "to help with muscle pull",
+            "provenance": [
+                49
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Pain management referral",
+            "reason": "to discuss pain management options",
+            "provenance": [
+                55
+            ]
+        }
+    ],
+    "acibench_D2N050_aci_train": [
+        {
+            "order_type": "lab",
+            "description": "urinalysis and urine culture",
+            "reason": "to make sure that everything else is okay with you and based on urinalysis we can see if we need to prescribe you antibiotics",
+            "provenance": [
+                19
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "bmp",
+            "reason": "to make sure that everything else is okay with you",
+            "provenance": [
+                19
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "oxycodone five milligrams every six to eight hours for pain",
+            "reason": "pain management",
+            "provenance": [
+                19
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow up in about one to two weeks",
+            "reason": "to check if the stone has passed",
+            "provenance": [
+                19
+            ]
+        }
+    ],
+    "acibench_D2N198_aci_clef_taskC_test3": [
+        {
+            "order_type": "lab",
+            "description": "lipid panel",
+            "reason": "to check for potential kidney disease",
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": "UA",
+            "reason": "to check for potential kidney disease",
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": "CMP",
+            "reason": "to check for potential kidney disease",
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": "CBC",
+            "reason": "to check for potential kidney disease",
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": "vitamin D",
+            "reason": "to check for potential nutritional issues",
+            "provenance": []
+        },
+        {
+            "order_type": "lab",
+            "description": "TSH",
+            "reason": "to check for potential hormonal issues",
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "check for results",
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "ENT referral",
+            "reason": "to consider tonsil removal",
+            "provenance": []
+        }
+    ],
+    "acibench_D2N161_aci_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "lab",
+            "description": "renal artery ultrasound",
+            "reason": "to make sure there's no other causes like secondary causes that can cause problems with kidney",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "continue on bumex 2 milligrams one daily",
+            "reason": "to help with congestive heart failure",
+            "provenance": [
+                21
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "continue on cozaar 100 milligrams daily and norvasc 5 milligrams once daily",
+            "reason": "for hypertension",
+            "provenance": [
+                27
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "more blood work",
+            "reason": "to make sure patient tolerates the regimen for kidney disease",
+            "provenance": [
+                29
+            ]
+        }
+    ],
+    "acibench_D2N112_aci_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "medication",
+            "description": "epidural steroid injection",
+            "reason": "to treat disk herniation and nerve root impingement",
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy",
+            "reason": "to strengthen the area",
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "doctor's appointment",
+            "reason": "to follow up on treatment plan",
+            "provenance": [
+                31
+            ]
+        }
+    ],
+    "primock57_5_7": [
+        {
+            "order_type": "lab",
+            "description": "check temperature with a thermometer",
+            "reason": null,
+            "provenance": [
+                123,
+                128
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "cough syrup",
+            "reason": "to settle cough at night",
+            "provenance": [
+                144
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "monitoring of symptoms",
+            "reason": "if temperature's ongoing or cough gets worse",
+            "provenance": [
+                130,
+                136
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "antibiotics",
+            "reason": "potentially if bacterial infection suspected",
+            "provenance": [
+                134,
+                135
+            ]
+        }
+    ],
+    "acibench_D2N051_aci_train": [
+        {
+            "order_type": "lab",
+            "description": "arterial ultrasound of lower extremities",
+            "reason": "to see if there is adequate blood supply to heal the foot wound",
+            "provenance": [
+                43
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "with primary care physician to get diabetes better controlled",
+            "reason": "to impact wound healing",
+            "provenance": [
+                45
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "with cardiologist for coronary artery disease",
+            "reason": "to see if a procedure is needed",
+            "provenance": [
+                47
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "with podiatrist for wound care",
+            "reason": "to improve wound care",
+            "provenance": [
+                45
+            ]
+        }
+    ],
+    "acibench_D2N016_virtassist_train": [
+        {
+            "order_type": "medication",
+            "description": "increased Norvasc to 10mg",
+            "reason": "to manage hypertension",
+            "provenance": [
+                130
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "echocardiogram",
+            "reason": "to assess heart function",
+            "provenance": [
+                131
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "lipid panel",
+            "reason": "to assess cholesterol levels",
+            "provenance": [
+                131
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "depression management",
+            "reason": "patient is doing well with current strategies",
+            "provenance": []
+        }
+    ],
+    "acibench_D2N073_virtscribe_valid": [
+        {
+            "order_type": "lab",
+            "description": "iron and hematology workup",
+            "reason": "to assess for potential sources of anemia or gi bleed",
+            "provenance": [
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "upper endoscopy and colonoscopy",
+            "reason": "to assess for potential sources of anemia or gi bleed",
+            "provenance": [
+                89,
+                90,
+                121
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "ferrous sulfate 25 milligrams twice daily with orange juice",
+            "reason": "to help with iron deficiency anemia",
+            "provenance": [
+                100,
+                101,
+                118
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "8-12 weeks to reassess blood work",
+            "reason": "to evaluate effectiveness of treatment",
+            "provenance": [
+                102,
+                119
+            ]
+        }
+    ],
+    "primock57_4_8": [
+        {
+            "order_type": "lab",
+            "description": "blood tests",
+            "reason": "to determine cause of low mood and fatigue",
+            "provenance": [
+                218,
+                221
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "in-person appointment",
+            "reason": "to further investigate symptoms",
+            "provenance": [
+                217,
+                221
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "blood tests",
+            "reason": "to determine cause of low mood and fatigue",
+            "provenance": [
+                218,
+                221
+            ]
+        }
+    ],
+    "acibench_D2N006_virtassist_train": [
+        {
+            "order_type": "lab",
+            "description": "ultrasound of right upper quadrant",
+            "reason": "to rule out gallstones",
+            "provenance": [
+                124
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "allopurinol",
+            "reason": "100 milligrams",
+            "provenance": [
+                130
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "continue pilates and using the knee",
+            "reason": "to monitor arthritis",
+            "provenance": [
+                134
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "check some labs",
+            "reason": "to monitor condition",
+            "provenance": []
+        }
+    ],
+    "acibench_D2N181_virtscribe_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "nexium 40 milligrams twice daily",
+            "reason": "to replace omeprazole for acid reflux",
+            "provenance": [
+                106
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "upper endoscopy (egd)",
+            "reason": "to look for potential causes of gerd",
+            "provenance": [
+                107,
+                108,
+                114
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up appointment to discuss results and medication changes",
+            "reason": null,
+            "provenance": [
+                114
+            ]
+        }
+    ],
+    "acibench_D2N114_aci_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "imaging",
+            "description": "MRI of the brain",
+            "reason": "to check for any other condition that could be contributing to your symptoms",
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "medication",
+            "description": null,
+            "reason": null,
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "eye exam with a neuro-ophthalmologist",
+            "reason": "to evaluate the pressure in the brain and vision",
+            "provenance": [
+                29
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "spinal tap",
+            "reason": "to evaluate the pressure in the brain and help you feel better",
+            "provenance": [
+                29
+            ]
+        }
+    ],
+    "primock57_3_4": [
+        {
+            "order_type": "medication",
+            "description": "increased Clenil to four puffs twice a day",
+            "reason": "to manage asthma symptoms",
+            "provenance": [
+                134,
+                144
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "use Salbutamol inhaler every 2-4 hours as needed",
+            "reason": "to manage asthma symptoms",
+            "provenance": [
+                125,
+                135,
+                151
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "face-to-face appointment with GP",
+            "reason": "to assess asthma symptoms",
+            "provenance": []
+        },
+        {
+            "order_type": "medication",
+            "description": "possible antibiotics and steroids",
+            "reason": "to treat potential infection",
+            "provenance": []
+        }
+    ],
+    "acibench_D2N066_aci_train": [
+        {
+            "order_type": "medication",
+            "description": "naprosyn",
+            "reason": "to help with back pain",
+            "provenance": [
+                44
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "flexeril",
+            "reason": "to help with back pain",
+            "provenance": [
+                44
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "hydrochlorothiazide",
+            "reason": "to address swelling in legs",
+            "provenance": [
+                46
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hemoglobin a1c",
+            "reason": "to check blood sugar control",
+            "provenance": [
+                28,
+                46
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "cbc",
+            "reason": "to check overall health",
+            "provenance": [
+                46
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "bmp",
+            "reason": "to check kidney function",
+            "provenance": [
+                46
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "chest x-ray",
+            "reason": "to check for any lung issues",
+            "provenance": [
+                46
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy",
+            "reason": "to strengthen lower back muscles",
+            "provenance": [
+                44
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "metformin",
+            "reason": "continue current medication for diabetes",
+            "provenance": [
+                46
+            ]
+        }
+    ],
+    "acibench_D2N077_aci_valid": [
+        {
+            "order_type": "medication",
+            "description": "pain management",
+            "reason": "to manage pain",
+            "provenance": [
+                60
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "checkup",
+            "reason": "to assess progress",
+            "provenance": [
+                78
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "ultram",
+            "reason": "for pain management",
+            "provenance": [
+                60
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "x-ray",
+            "reason": "to confirm fracture",
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "physical therapy",
+            "reason": "to regain strength",
+            "provenance": [
+                60
+            ]
+        }
+    ],
+    "acibench_D2N187_aci_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "Lucentis injection",
+            "reason": "to treat neovascular age-related macular degeneration",
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "regular follow-up to monitor vision and disease progression",
+            "reason": null,
+            "provenance": []
+        }
+    ],
+    "acibench_D2N046_aci_train": [
+        {
+            "order_type": "lab",
+            "description": "ca-125",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "hcg",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "afp",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "ldh",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "genetic counseling and testing",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "surgery",
+            "description": "hysterectomy",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "surgery",
+            "description": "remove both ovaries",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "surgery",
+            "description": "lymph node dissection",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "cisplatin",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "taxol",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "intraperitoneal chemo",
+            "reason": null,
+            "provenance": [
+                31
+            ]
+        }
+    ],
+    "primock57_1_6": [
+        {
+            "order_type": "lab",
+            "description": "blood test",
+            "reason": "to check for signs of anemia and kidney function",
+            "provenance": [
+                229,
+                230
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Furosemide",
+            "reason": "increase dose to one tablet twice a day",
+            "provenance": [
+                205,
+                231
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "review of condition and adjustment of treatment plan",
+            "reason": "232",
+            "provenance": [
+                235
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "echocardiogram",
+            "reason": "to see how well the heart is pumping",
+            "provenance": [
+                212,
+                213
+            ]
+        }
+    ],
+    "acibench_D2N019_virtassist_train": [
+        {
+            "order_type": "medication",
+            "description": "Motrin",
+            "reason": "to treat lateral epicondylitis",
+            "provenance": [
+                78
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Epipen",
+            "reason": "for anaphylaxis",
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up in a week if symptoms persist",
+            "reason": null,
+            "provenance": [
+                82
+            ]
+        }
+    ],
+    "acibench_D2N176_virtassist_clef_taskC_test3": [
+        {
+            "order_type": "medication",
+            "description": "Protonix 40 mg a day",
+            "reason": "to continue managing reflux",
+            "provenance": [
+                100
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Continue with lifestyle modifications and dietary changes",
+            "reason": "to manage reflux",
+            "provenance": [
+                100
+            ]
+        }
+    ],
+    "acibench_D2N064_aci_train": [
+        {
+            "order_type": "followup",
+            "description": "ankle sprain",
+            "reason": "symptoms consistent with an ankle sprain of the lateral ligament complex",
+            "provenance": [
+                23
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "NSAIDs",
+            "reason": "to help reduce pain and swelling",
+            "provenance": [
+                23
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up appointment",
+            "reason": "to ensure patient is doing okay",
+            "provenance": [
+                23
+            ]
+        }
+    ],
+    "acibench_D2N083_aci_valid": [
+        {
+            "order_type": "medication",
+            "description": "ibuprofen",
+            "reason": "to help alleviate elbow pain",
+            "provenance": [
+                34
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "follow-up appointment",
+            "reason": "to check on elbow pain progress",
+            "provenance": [
+                34
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "ibuprofen",
+            "reason": "for pain relief",
+            "provenance": [
+                34
+            ]
+        }
+    ],
+    "acibench_D2N021_virtscribe_train": [
+        {
+            "order_type": "medication",
+            "description": "Unithroid",
+            "reason": "patient unable to afford",
+            "provenance": [
+                14
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "clindamycin gel and benzoyl peroxide",
+            "reason": "acne treatment",
+            "provenance": [
+                197,
+                198,
+                199,
+                200
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "liver enzymes",
+            "reason": "abnormal liver enzymes",
+            "provenance": [
+                128,
+                130,
+                133,
+                210
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "vitamin D",
+            "reason": "deficiency",
+            "provenance": [
+                118,
+                119,
+                120,
+                207,
+                208
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "weight loss study",
+            "reason": "potential participant",
+            "provenance": [
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189
+            ]
+        }
+    ],
+    "acibench_D2N153_aci_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "Meloxicam 15mg once a day",
+            "reason": "To help with knee pain and inflammation",
+            "provenance": [
+                48
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Physical therapy referral",
+            "reason": "To strengthen knee muscles and prevent future injuries",
+            "provenance": [
+                56
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "MRI (potential)",
+            "reason": "To further assess knee injury if pain persists",
+            "provenance": [
+                56
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Ibuprofen (already being taken)",
+            "reason": "For pain management",
+            "provenance": [
+                18,
+                53
+            ]
+        }
+    ],
+    "acibench_D2N094_virtassist_clinicalnlp_taskB_test1": [
+        {
+            "order_type": "medication",
+            "description": "Mobic",
+            "reason": "15 milligrams once a day for 14 days",
+            "provenance": []
+        },
+        {
+            "order_type": "followup",
+            "description": "check if the sprained DIP joint of right index finger is healed",
+            "reason": null,
+            "provenance": [
+                66
+            ]
+        }
+    ],
+    "acibench_D2N193_aci_clef_taskC_test3": [
+        {
+            "order_type": "lab",
+            "description": "COVID-19 test",
+            "reason": "to check for COVID-19",
+            "provenance": [
+                57
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "metformin",
+            "reason": "continue taking for type 2 diabetes",
+            "provenance": [
+                25
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "hydrochlorothiazide",
+            "reason": "increase dose to 25mg once a day for high blood pressure",
+            "provenance": [
+                61
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "coricidin hbp",
+            "reason": "for cough",
+            "provenance": [
+                57
+            ]
+        }
+    ],
+    "acibench_D2N001_virtassist_train": [
+        {
+            "order_type": "medication",
+            "description": "lisinopril 40mg",
+            "reason": "to control high blood pressure and congestive heart failure",
+            "provenance": [
+                103,
+                104
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "lasix 20mg",
+            "reason": "to control congestive heart failure",
+            "provenance": [
+                105
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "echocardiogram",
+            "reason": "to monitor heart function",
+            "provenance": [
+                108,
+                94
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "mammogram",
+            "reason": "for annual exam and breast cancer screening",
+            "provenance": [
+                125
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "continue current medications for congestive heart failure",
+            "reason": "depression",
+            "provenance": [
+                102
+            ]
+        }
+    ],
+    "primock57_2_8": [
+        {
+            "order_type": "lab",
+            "description": "blood tests",
+            "reason": "to check for infection or malaria",
+            "provenance": [
+                153,
+                168
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "examination",
+            "reason": "to assess symptoms and determine urgency of blood tests",
+            "provenance": [
+                150,
+                163
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "thick and thin blood films",
+            "reason": "to check for malaria",
+            "provenance": [
+                168
+            ]
+        }
+    ],
+    "acibench_D2N144_virtscribe_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "followup",
+            "description": "ongoing management of rheumatoid arthritis",
+            "reason": "patient has ongoing knee pain and swelling",
+            "provenance": [
+                2,
+                12,
+                50,
+                54,
+                59
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "CMP levels check",
+            "reason": "to monitor side effects of Xeljanz",
+            "provenance": [
+                77,
+                78
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Xeljanz (11mg daily)",
+            "reason": "for rheumatoid arthritis",
+            "provenance": [
+                31,
+                32
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Celebrex (200mg daily)",
+            "reason": "for rheumatoid arthritis",
+            "provenance": [
+                32,
+                34
+            ]
+        },
+        {
+            "order_type": "medication",
+            "description": "Triamcinolone (80mg)",
+            "reason": "for knee inflammation",
+            "provenance": [
+                90
+            ]
+        },
+        {
+            "order_type": "imaging",
+            "description": "X-ray of the knee",
+            "reason": "to investigate cause of swelling",
+            "provenance": [
+                50,
+                58
+            ]
+        }
+    ],
+    "primock57_3_5": [
+        {
+            "order_type": "medication",
+            "description": "Labyrinthitis medication",
+            "reason": "to help with middle ear stability and alleviate symptoms",
+            "provenance": [
+                107
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Doctor's appointment to examine the patient's ears and assess their condition",
+            "reason": "to take a look inside your ears to just make sure",
+            "provenance": [
+                108,
+                125
+            ]
+        },
+        {
+            "order_type": "lab",
+            "description": "Blood pressure check",
+            "reason": "just examine your",
+            "provenance": [
+                111
+            ]
+        }
+    ],
+    "acibench_D2N132_virtassist_clinicalnlp_taskC_test2": [
+        {
+            "order_type": "medication",
+            "description": "Ibuprofen",
+            "reason": "as needed for pain",
+            "provenance": [
+                72
+            ]
+        },
+        {
+            "order_type": "followup",
+            "description": "Back pain",
+            "reason": "if symptoms persist or worsen",
+            "provenance": [
+                77
+            ]
+        }
+    ]
+}

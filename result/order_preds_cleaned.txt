@@ -1,0 +1,1065 @@
+
+#primock57_1_5#
+
+
+
+$medication, Trimethoprim, to treat possible urine infection, because it could be a urine infection$
+$followup, review symptoms and assess need for further testing, if symptoms worsen or do not improve, null$
+$lab, pregnancy test, to rule out pregnancy as a possible cause of symptoms, 158, 161$
+$medication, Paracetamol, for pain relief, 166$
+
+
+#acibench_D2N188_aci_clef_taskC_test3#
+
+
+
+$medication, meloxicam 15mg once a day, to treat ankle sprain, 58$
+$followup, follow-up in a couple of weeks if not feeling better, to assess progress, 58$
+$medication, not specified, null, null$
+$imaging, X-ray of right ankle, to check for fracture or bony abnormality, 54$
+
+
+#primock57_2_1#
+
+
+
+$followup, hearing loss in left ear, difficulty hearing in left ear, 2, 18, 27, 31, 38, 40, 68, 70, 84$
+$imaging, ear examination, to check for physical blockage, 49, 52, 54, 57, 60, 61, 66, 77, 80, 83, 105$
+$null$
+
+
+#acibench_D2N079_aci_valid#
+
+
+
+$imaging, left shoulder MRI, to be sure that there is nothing else going on with your shoulder, 27$
+$followup, physical therapy for approximately six to eight weeks, to help strengthen your muscles, 29$
+$medication, continue to take Tylenol, for pain relief, 16$
+$followup, follow-up visit with me after physical therapy, to assess progress, 35$
+
+
+#acibench_D2N069_virtassist_valid#
+
+
+
+$medication, Motrin 800mg, for pain management, 76, 77, 78$
+$followup, follow-up in a week, to assess improvement, 74$
+$imaging, MRI, if symptoms persist, 74$
+
+
+#acibench_D2N036_aci_train#
+
+
+
+$medication, ibuprofen, take ibuprofen six hundred milligrams every six hours, 39$
+$followup, follow up, see you back here in the office in two weeks, 39$
+$lab, emg, we will follow up with that, 37$
+
+
+#acibench_D2N202_aci_clef_taskC_test3#
+
+
+
+$imaging, MRI of right shoulder, to make sure that nothing else is going on, 27$
+$lab, null, null, null$
+$medication, NSAID (e.g. Advil), for pain, 27$
+$medication, Tylenol, for pain, 27$
+$followup, physical therapy, for rotator cuff tendinopathy, 27$
+$followup, doctor's appointment, to evaluate progress, 29$
+
+
+#acibench_D2N172_virtassist_clef_taskC_test3#
+
+
+
+$medication, Zoloft 50 milligrams daily, refill, 78, 80$
+$followup, check back in about a month and then in about three months, null, 84$
+
+
+#acibench_D2N033_aci_train#
+
+
+
+$medication, Mobic, to try to get some of the swelling down and as a pain reliever, 33$
+$lab, hemoglobin A1C, to recheck, 35$
+$medication, metformin, refill, 35$
+$imaging, MRI, to see if there's any other damage to the knee, 33$
+$followup, null, null, null$
+
+
+#acibench_D2N194_aci_clef_taskC_test3#
+
+
+
+$imaging, MRI of left shoulder, to make sure nothing else is going on with that left shoulder, 37$
+$followup, physical therapy for approximately six to eight weeks, to address rotator cuff tendinopathy, 40$
+$medication, continue taking Tylenol p.r.n., for pain management, 39$
+$followup, review of symptoms in two weeks, to assess effectiveness of treatment plan, 44$
+
+
+#acibench_D2N013_virtassist_train#
+
+
+
+$medication, metformin 500 mg twice a day, newly diagnosed diabetes, 54$
+$lab, hemoglobin a1c, future monitoring, 52, 58$
+$followup, epilepsy, continue keppra, 67$
+$followup, anxiety, consider new treatment, 60, 63$
+
+
+#acibench_D2N071_virtassist_valid#
+
+
+
+$medication, Prozac 20 milligrams a day, to continue current strategy for depression, 77$
+$lab, echocardiogram, to evaluate systolic ejection murmur, 90$
+$lab, routine blood work, null, 92$
+$followup, null, null, null$
+
+
+#acibench_D2N048_aci_train#
+
+
+
+$imaging, X-ray of right foot, "subtle dorsal displacement of the base of the second metatarsal with a three millimeter separation of the first and second metatarsal bases and the presence of a bony fragment in the lisfranc joint space", 32$
+$imaging, MRI of right foot, "to further assess the fracture and any injury to the ligaments", 32$
+$medication, null, null, null$
+$followup, physical therapy, "to strengthen the muscles and make sure that you're at peak performance", 48$
+$surgery, surgery for Lisfranc fracture, "to place the bones in their proper positions using plates and screws", 32$
+
+
+#primock57_5_1#
+
+
+
+$medication, Ibuprofen, to help with headache, because it does sound quite like a migraine but obviously if you had no history of that, in the past.${119, 118}$ 
+$followup, check on headache, if it isn't settling, or it's getting worse, or you get any other change in your headache.${120, 121}$ 
+$medication, Paracetamol, for headache.${101}$ 
+$followup, discuss further if headaches are persistent or associated with menstrual cycle.${124}$
+
+
+#primock57_5_6#
+
+
+
+$lab, stool sample, to check for bacterial infection, 132$
+
+$medication, rehydration salts, to help with hydration, 146$
+
+$followup, appointment to check hydration and send off stool sample, 156$
+
+$medication, advice on taking tiny sips of rehydration salts and simple food, to manage symptoms, 166$
+
+
+#acibench_D2N159_aci_clinicalnlp_taskC_test2#
+
+
+
+$medication, Ibuprofen, to help with pain, 35$
+$followup, nerve conduction study, to check for carpal tunnel syndrome, 37$
+$imaging, null, null, null$
+$lab, EMG, to check nerve conduction, 37$
+
+
+#acibench_D2N004_virtassist_train#
+
+
+
+$medication, meloxicam 15 milligrams once a day, to treat acute lumbar strain, 136$
+$medication, metformin 1000 milligrams twice daily, to treat type 2 diabetes, 145$
+$lab, hemoglobin a1c, to monitor diabetes control, 148, 151$
+$imaging, mri, to rule out disc herniation, 137, 140$
+$medication, lisinopril 20 milligrams once a day, refill, to treat congestive heart failure, 159$
+
+
+#acibench_D2N180_virtscribe_clef_taskC_test3#
+
+
+
+$lab, EMG, null, 74$
+$lab, NCV, null, 74$
+$followup, bilateral carpal tunnel syndrome, "question of bilateral cubital tunnel syndrome", 73$
+
+
+#primock57_5_2#
+
+
+
+$medication, antibiotic, to treat urine infection, 106$
+
+$lab, urine test, not explicitly mentioned but implied as necessary for diagnosis, null$
+
+$followup, review of symptoms and response to treatment, if symptoms worsen or persist, 140, 142$
+
+$medication, sachets to change acidity of urine, to help with urine infection, 128, 130$
+
+
+#acibench_D2N143_virtscribe_clinicalnlp_taskC_test2#
+
+
+
+$lab, std testing, patient wants to be evaluated for all stds due to partner's infidelity, 4, 8, 73$
+$lab, gonorrhea testing, patient wants to be evaluated for all stds due to partner's infidelity, 4, 8, 73$
+$lab, chlamydia testing, patient wants to be evaluated for all stds due to partner's infidelity, 4, 8, 73$
+$lab, trichomoniasis testing, patient wants to be evaluated for all stds due to partner's infidelity, 4, 8, 73$
+$lab, syphilis testing, patient wants to be evaluated for all stds due to partner's infidelity, 4, 8, 73$
+$lab, hiv testing, patient wants to be evaluated for all stds due to partner's infidelity, 4, 8, 73$
+$lab, hepatitis c testing, patient wants to be evaluated for all stds due to partner's infidelity, 4, 8, 73$
+
+
+#acibench_D2N147_aci_clinicalnlp_taskC_test2#
+
+
+
+$imaging, right shoulder x-ray, to check for injury, 43$
+$imaging, CAT scan of right shoulder, to get a better look of the joint, 43$
+$medication, meloxicam 15mg once a day, for pain, 43$
+$followup, physical therapy, to strengthen shoulder, 43$
+
+
+#primock57_2_7#
+
+
+
+$lab, ECG, suspected heart attack, "chest discomfort, pressure on my chest, feels like someone sitting on my chest", 28, 30, 31, 48, 50, 54, 61, 64, 80, 84, 90, 98, 100, 105, 120, 121$
+
+$imaging, ECG, suspected heart attack, "symptoms that you've described to me, they indicate the possibility of, um, a heart attack", 121, 128$
+
+$medication, aspirin, allergic reaction, "allergy to aspirin", 136, 140, 149$
+
+$followup, monitoring, suspected heart attack, "we'll take care of everything", 67, 68, 125, 126$
+
+
+#acibench_D2N127_aci_clinicalnlp_taskB_test1#
+
+
+
+$imaging, MRI of the neck, to further evaluate the neck pain and possible injury, 71$
+$medication, Robaxin (1500mg, every 6-8 hours), to relax muscles and reduce pain, 73$
+$followup, Physical therapy, to help with pain and mobility, 75$
+$followup, Referral to pain medicine, to explore additional treatment options, 75$
+$followup, Local injections, to potentially help with pain, 75$
+
+
+#acibench_D2N175_virtassist_clef_taskC_test3#
+
+
+
+$lab, lipid panel, to see what that, to see a lipid panel and some other blood work, 96$
+$medication, Jardiance 10 milligrams a day, to help get that hemoglobin a1c down, 91, 98, 99$
+$followup, diabetes management, to get that hemoglobin a1c down the next time, 95$
+$lab, CBC, CMP, to check on patient's condition, 97$
+
+
+#acibench_D2N056_aci_train#
+
+
+
+$lab, pulmonary function test, to assess how severe your respiratory impairment is, 33$
+$lab, cat scan of your lungs, to confirm the diagnosis, 33$
+$medication, oral steroid, to decrease the inflammation that is occurring in your lungs, 33$
+$followup, null, null, 40$
+
+
+#primock57_3_9#
+
+
+
+$imaging, Brain scan, to investigate possible multiple sclerosis, 178$
+$lab, Neurology referral, to investigate possible multiple sclerosis, 178$
+$followup, Multiple sclerosis investigation, to determine if patient has multiple sclerosis, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205$
+
+
+#acibench_D2N154_aci_clinicalnlp_taskC_test2#
+
+
+
+$medication, Ibuprofen, to reduce inflammation and alleviate pain, 43$
+$followup, follow-up appointment in 7-10 days, to monitor progress, 43$
+$lab, null, null, null$
+$imaging, null, null, null$
+
+
+#acibench_D2N201_aci_clef_taskC_test3#
+
+
+
+$medication, pain medication, can you get pain pills too, 92$
+$medication, corticosteroid injection, we could yeah we could give you something to help calm down like the anxiety, 85$
+$followup, spinal injection, it's gon na happen under fluoroscopy, 103$ 
+$followup, surgery, however i would maybe recommend surgery, 97$
+
+
+#acibench_D2N084_aci_valid#
+
+
+
+$lab, renal artery ultrasound, to ensure no underlying conditions, 33$
+$medication, continue bumex, for hypertension management, 29$
+$medication, continue cozaar, for hypertension management, 29$
+$medication, continue norvasc, for hypertension management, 29$
+$followup, nutrition consult, to monitor diet, 29$
+$followup, weigh daily, to monitor fluid status, 32$
+
+
+#acibench_D2N179_virtscribe_clef_taskC_test3#
+
+
+
+$lab, EMG test, to determine exactly where the nerve irritation is coming from, 69$
+$followup, follow-up visit, if you're still having symptoms, we can consider a referral, 74$
+$followup, follow-up visit, to come back after those studies, 77$
+
+
+#acibench_D2N138_virtscribe_clinicalnlp_taskC_test2#
+
+
+
+$medication, change medication from Wixela to Alvesco, patient needs to use it for asthma, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172$
+
+$medication, continue using Albuterol as needed, no changes, 25, 26, 27, 28, 29, 30, 31, 32, 195, 196$
+
+$medication, continue using Zyrtec as needed, no changes, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 187, 188, 189$
+
+$medication, refill Epipen, patient has a known peanut allergy, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 184, 197$
+
+$followup, follow-up in 4 months with ACT and spirometry, to monitor asthma, 201, 205$
+
+
+#acibench_D2N045_aci_train#
+
+
+
+$medication, Ibuprofen 200mg and Tylenol 500mg, pain and inflammation management, 27$
+$followup, follow-up appointment, check on improvement, 27$
+$lab, null, null, null$ 
+$imaging, X-rays, joint space evaluation, 27$
+
+
+#acibench_D2N195_aci_clef_taskC_test3#
+
+
+
+$medication, Meloxicam, to help with pain and swelling, 45$
+$medication, Norvasc, increased dosage, 47$
+$lab, Blood sugar log, to track daily blood sugars, 47$
+$followup, Knee immobilizer, to stabilize knee, 45$
+$followup, MRI, to determine extent of MCL strain, 45$
+$followup, Nutrition consult, to improve diet, 47$
+
+
+#primock57_2_3#
+
+
+
+$imaging, hearing loss and facial numbness assessment, needs further evaluation, 136, 144, 150$
+$followup, face-to-face appointment in one of our clinics, to confirm diagnosis and rule out serious conditions, 150, 154, 161$
+
+
+#acibench_D2N078_aci_valid#
+
+
+
+$medication, Ibuprofen 800mg twice a day for knee pain and swelling, to help with swelling and pain, 35$
+$medication, Lisinopril 20mg, to manage hypertension, 35$
+$followup, Nutrition referral, to help with diet and hypertension management, 35$
+$medication, null, null, null$
+$imaging, X-ray of right knee, no fractures or bony abnormalities found, 35$
+$lab, null, null, null$
+
+
+#acibench_D2N137_virtassist_clinicalnlp_taskC_test2#
+
+
+
+$medication, lisinopril 10mg, hypertension, 87$
+$followup, check blood pressure, null, 88$
+
+
+#primock57_1_9#
+
+
+
+$medication, Urinary Tract Infection treatment, to treat the infection, 141, 142, 145$
+
+$followup, Review of symptoms, if still not better by the end of the week, 153, 154$
+
+$lab, Pregnancy test, to rule out pregnancy, 86$
+
+$lab, Urine test, not explicitly mentioned but implied as part of the examination, 135$
+
+
+#primock57_1_11#
+
+
+
+$lab, gastrointestinal infection, because of symptoms like diarrhea, vomiting, and fever, 234, 237, 239, 245, 253, 260, 261$
+
+$medication, Paracetamol, for fever and tummy pain, 162, 259, 275$
+
+$medication, Diarolyte, for fluid replacement, 254, 256, 266$
+
+$followup, review of symptoms in 1-2 days, to check for dehydration and need for further investigations, 260, 262, 280$
+
+
+#primock57_5_3#
+
+
+
+$null, null, null, null$
+$lab, blood tests, to make sure that there's not something triggering off palpitations, 163$
+$followup, GP follow-up, to go through the results of blood tests, 164$
+
+
+#acibench_D2N116_aci_clinicalnlp_taskB_test1#
+
+
+
+$imaging, Shoulder X-ray, No fracture found, 28$
+$imaging, MRI, To check for rotator cuff tendinopathy, 28$
+$followup, Physical therapy for shoulder, To treat rotator cuff tendinopathy, 28$
+$medication, Tylenol, For pain management, 28$
+$medication, Steroid injection, Consider if symptoms don't improve, 28$
+
+
+#acibench_D2N184_virtscribe_clef_taskC_test3#
+
+
+
+$followup, knee status post right medial unicompartmental arthroplasty, patient reports numbness on the side of the knee, 11$
+$followup, knee, patient has numbness on the side of the knee, 11$
+$followup, physical therapy, to work on strength, range of motion, and endurance, 38$
+$followup, telemedicine visit, to check in and see how patient is doing, 46$
+
+
+#acibench_D2N117_aci_clinicalnlp_taskB_test1#
+
+
+
+$medication, ultram, to help with elbow pain, 51$
+$medication, metformin, increased to one thousand milligrams twice per day for diabetes type two, 51$
+$lab, hemoglobin a1c level, to check blood sugar control, 51$
+$lab, cbc blood test, to check blood cell count, 51$
+$lab, chem-12 blood test, to check chemistry levels, 51$
+$medication, albuterol, refill for asthma, 51$
+$followup, follow-up appointment, to reevaluate elbow in four weeks, 51$
+
+
+#acibench_D2N087_aci_valid#
+
+
+
+$medication, doxycycline 100mg twice a day, possible lyme disease, 68$
+$medication, lisinopril 20mg once a day, hypertension, 74$
+$medication, metformin 1000mg twice a day, diabetes, 76$
+$lab, lyme titer and western blot, possible lyme disease, 68$
+$lab, lipid panel, hypertension, 74$
+$lab, hemoglobin a1c, diabetes, 76$
+$lab, basic metabolic panel, kidney function, 78$
+
+
+#acibench_D2N058_aci_train#
+
+
+
+$medication, aspirin 81mg daily, to continue medication for coronary artery disease, 37$
+$medication, brilinta 90mg twice daily, to continue medication for coronary artery disease, 37$
+$medication, atorvastatin 80mg daily, to continue medication for coronary artery disease, 37$
+$medication, toprol 50mg daily, to continue medication for coronary artery disease, 37$
+$medication, lisinopril 20mg daily, to continue medication for left ventricular dysfunction, 40$
+$medication, aldactone 12.5mg daily, to treat left ventricular dysfunction, 40$
+$followup, echocardiogram in 2 months, to monitor left ventricular dysfunction, 40$
+$followup, lab test next week, to monitor medication and condition, 40$
+$lab, lab test, to monitor condition, 40$
+$followup, cardiac rehab, to educate and improve exercise, 37$
+
+
+#acibench_D2N003_virtassist_train#
+
+
+
+$imaging, CT scan of abdomen and pelvis, possible kidney stone, 88$
+$medication, Ultram 50 milligrams, pain management, 91$
+$medication, Protonix 40 milligrams daily, acid reflux, 100$
+$followup, none, null, null$
+
+
+#acibench_D2N163_aci_clinicalnlp_taskC_test2#
+
+
+
+$lab, full cholesterol panel, null, 49$
+$lab, glucose, null, 49$
+$lab, complete metabolic panel, null, 49$
+$lab, thyroid studies, null, 49$
+$lab, liver panels, null, 49$
+$lab, genetic testing, null, 49$
+$followup, follow-up in 3 to 6 months, to check cholesterol level after dietary changes, 51$
+$followup, meeting a nutritionist, to get information about a well-balanced diet, 49$
+
+
+#acibench_D2N100_virtscribe_clinicalnlp_taskB_test1#
+
+
+
+$medication, adapalene 0.1% cream, to treat acne, 64, 68$
+$medication, mild cleanser, for skin care, 65$
+$medication, moisturizer (noncomedogenic with sunscreen spf 30 or higher), for skin care, 65, 66, 72$
+$medication, clean and clear persa-gel, as alternative to adapalene, 71$
+$followup, check progress of acne treatment, in six months, 78$ 
+$lab, null, null, null$ 
+$imaging, null, null, null$
+
+
+#acibench_D2N106_aci_clinicalnlp_taskB_test1#
+
+
+
+$medication, asthma symptoms management, to help decrease the occurrences of asthma, 56$
+$medication, allergic asthma treatment, to continue, 56$
+$lab, allergy testing, to target what the triggers, 60$
+$followup, skin testing, to schedule, 62$
+
+
+#acibench_D2N141_virtscribe_clinicalnlp_taskC_test2#
+
+
+
+$followup, adult hydrocephalus, progressive gait impairment, cognitive impairment, and decreased bladder control, 7$
+$followup, shunt surgery, no issues with sores from wearing diaper, no headaches or pain, 41, 42, 43, 59$
+$followup, improvement in walking, bladder control, and cognition, 23, 24, 30, 36, 37$
+$imaging, CT scan, tiny bit of blood fluid collection in right parietal region, 55, 56$
+$followup, no improvement in movement speed for driving, 68, 69$
+$followup, continued follow-up for adult hydrocephalus, 7, 8$
+
+
+#acibench_D2N139_virtscribe_clinicalnlp_taskC_test2#
+
+
+
+$medication, spironolactone, to treat resistant hypertension, 88$
+$medication, continue benicar hct and amlodipine, for hypertension management, 30, 34$
+$lab, metabolic panel, to monitor potassium and sodium, 158$
+$followup, in two weeks, to check blood pressure and electrolytes, 131$
+$followup, with resistant hypertension clinic, if spironolactone does not work, 132$
+
+
+#acibench_D2N029_virtscribe_train#
+
+
+
+$imaging, ultrasound of right groin lymph node, to confirm it's nothing, 54$
+$followup, regular follow-up with dermatologist, null, 69, 72, 100$
+$medication, null, null, null$ 
+$lab, null, null, null$
+
+
+#acibench_D2N052_aci_train#
+
+
+
+$medication, ibuprofen 800mg, for pain, 29$
+$lab, BMP, null, 29$
+$lab, urinalysis, null, 29$
+$lab, urine culture, null, 29$
+$followup, follow-up in a week or two, null, 29$
+
+
+#acibench_D2N192_aci_clef_taskC_test3#
+
+
+
+$lab, blood tests (CBC, Chem 12, urinalysis, pregnancy test), null, 47$
+$imaging, right upper quadrant ultrasound, null, 47$
+$medication, refill lisinopril 20mg/day, hypertension management, 41$
+$medication, refill sumatriptan, migraine management, 50$
+
+
+#acibench_D2N171_virtassist_clef_taskC_test3#
+
+
+
+$medication, continue aspirin and toprol, for coronary artery disease management, null, 71$
+$medication, start crestor 20 mg once a day, for coronary artery disease management, null, 74$
+$imaging, cardiac stress test, to evaluate for blockages causing chest discomfort, null, 72$
+$lab, lipid panel, to assess cholesterol levels, null, 74$
+
+
+#acibench_D2N134_virtassist_clinicalnlp_taskC_test2#
+
+
+
+$medication, Doxycycline 100mg twice a day for 3 weeks, newly diagnosed lyme disease, 106$
+$medication, continue Metformin, type 2 diabetes management, 54$
+$medication, Lisinopril 10mg daily, high blood pressure management, 66, 123$
+$lab, Hemoglobin A1C, to monitor diabetes, 112, 114$
+$lab, Lyme titer, to confirm diagnosis, 96, 97$
+$lab, Lipid panel, to monitor hypertension, 117$
+
+
+#acibench_D2N097_virtassist_clinicalnlp_taskB_test1#
+
+
+
+$medication, lisinopril 20 milligrams a day, to manage high blood pressure, 75$
+$followup, annual exam and depression management, patient doing well with current strategies, 70, 71, 72, 73, 74$
+$imaging, mammogram, due for annual screening, 78$
+
+
+#acibench_D2N123_aci_clinicalnlp_taskB_test1#
+
+
+
+$lab, hemoglobin a1c, to check for diabetes control, 27$
+$lab, kidney function, to check for kidney function, 28$
+$medication, prilosec, for reflux, 26$
+$imaging, endoscopy, to examine the esophagus, 26$
+$followup, follow-up appointment, to review test results and adjust treatment plan, 28$
+$referral, gastroenterology, to evaluate swallowing difficulty, 26$
+$referral, ophthalmology, to check for diabetic retinopathy, 28$
+
+
+#primock57_1_7#
+$null,null,null,null$
+
+
+#acibench_D2N111_aci_clinicalnlp_taskB_test1#
+
+
+
+$medication, meloxicam, for pain and swelling due to lateral ligament strain, 61$
+$lab, a1c, to assess long-term blood sugar control, 61$
+$lab, lipid panel, to assess cholesterol levels, 61$
+$imaging, x-ray, to evaluate knee injury, 61$
+$followup, physical therapy, to strengthen muscles around the knee, 61$
+$medication, lisinopril, continue current dosage for hypertension, 61$
+$imaging, echo, to evaluate heart function due to hypertension, 61$
+
+
+#acibench_D2N032_virtscribe_train#
+
+
+
+$medication, Cortisone, pain relief, 171$
+$followup, Review condition and adjust treatment, null, 174, 196$
+$imaging, X-ray, Degenerative joint disease, 190$
+
+
+#acibench_D2N166_aci_clinicalnlp_taskC_test2#
+
+
+
+$medication, injection with strong nsaid and corticosteroid, to help with inflammation causing pain, 63$
+$followup, null, null, null$
+
+
+#acibench_D2N035_aci_train#
+
+
+
+$lab, renal artery ultrasound, to check for renal artery stenosis, 54$
+$medication, continue bumex 2mg once daily, for congestive heart failure, 52$
+$medication, continue cozaar 100mg daily, for hypertension, 54$
+$medication, continue norvasc 5mg once daily, for hypertension, 54$
+$followup, see a nutritionist, for dietary education, 52$
+$followup, see doctor again in 3 months, for follow-up, 54$
+$lab, get more labs, to check kidney function, 54$
+
+
+#acibench_D2N062_aci_train#
+
+
+
+$medication, Protonix, to help with esophagitis symptoms, 19$
+$medication, Carafate, to coat the lining of the esophagus and stomach, 23$
+$imaging, Upper Endoscopy, to check for other potential issues, 23$
+$followup, Follow-up appointment, to review endoscopy results and assess symptom improvement, 23$
+
+
+#acibench_D2N129_virtassist_clinicalnlp_taskC_test2#
+
+
+
+$lab, Hemoglobin A1C, elevated blood sugars, [92]$
+$medication, continue current medication, no changes, [118]$
+$followup, check blood sugars in the morning and call them in in about two weeks, [112]$
+$followup, return in about two months to review progress, [112]$
+
+
+#acibench_D2N170_virtassist_clef_taskC_test3#
+
+
+
+$lab, anemia workup, low hemoglobin level, 92$
+$imaging, endoscopy and colonoscopy, to investigate low hemoglobin level, 102$
+$medication, continue Toprol, continue lisinopril, continue diuretic dosing of 20mg Lasix, 109$
+$followup, review anemia labs, determine further workup, 101, 103$
+
+
+#primock57_2_2#
+
+
+
+$medication, Ibuprofen, to treat inflammation and pain, 190$
+$lab, blood tests, to check for inflammatory markers, infection, rheumatological antibodies, and Gout, 131, 136, 139$
+$followup, review of joint and blood test results, to assess condition and determine next steps, 145, 203$
+$null$
+
+
+#acibench_D2N009_virtassist_train#
+
+
+
+$medication, Meloxicam 15mg once a day, to treat lumbar strain, 89$
+$medication, Ultram 50mg every 4 hours as needed, to treat lumbar strain, 89$
+$imaging, MRI of lumbar spine, to be sure of diagnosis, 84$
+$followup, Physical therapy, to follow up on treatment, 91$
+
+
+#primock57_2_4#
+
+
+
+$lab, Chest X-ray, to check for pneumonia or lung infection, ${177, 206}$
+$followup, face-to-face appointment with a GP, to assess symptoms and provide further treatment, ${187, 213}$
+$medication, antibiotic, to treat potential chest infection, ${166, 183}$
+
+
+#acibench_D2N186_aci_clef_taskC_test3#
+
+
+
+$medication, Meloxicam, for pain management, 53$
+$medication, Demerol, for pain management, 57$
+$followup, Physical therapy, to help with muscle pull, 49$
+$followup, Pain management referral, to discuss pain management options, 55$
+
+
+#acibench_D2N050_aci_train#
+
+
+
+$lab, urinalysis and urine culture, to make sure that everything else is okay with you and based on urinalysis we can see if we need to prescribe you antibiotics, 19$
+$lab, bmp, to make sure that everything else is okay with you, 19$
+$medication, oxycodone five milligrams every six to eight hours for pain, pain management, 19$
+$followup, follow up in about one to two weeks, to check if the stone has passed, 19$
+
+
+#acibench_D2N198_aci_clef_taskC_test3#
+
+
+
+$lab, lipid panel, to check for potential kidney disease, [49]$
+$lab, UA, to check for potential kidney disease, [49]$
+$lab, CMP, to check for potential kidney disease, [49]$
+$lab, CBC, to check for potential kidney disease, [49]$
+$lab, vitamin D, to check for potential nutritional issues, [49]$
+$lab, TSH, to check for potential hormonal issues, [49]$
+$followup, check for results, null, [69]$
+$followup, ENT referral, to consider tonsil removal, [49]$
+
+
+#acibench_D2N161_aci_clinicalnlp_taskC_test2#
+
+
+
+$lab, renal artery ultrasound, to make sure there's no other causes like secondary causes that can cause problems with kidney, 27$
+$followup, continue on bumex 2 milligrams one daily, to help with congestive heart failure, 21$
+$followup, continue on cozaar 100 milligrams daily and norvasc 5 milligrams once daily, for hypertension, 27$
+$lab, more blood work, to make sure patient tolerates the regimen for kidney disease, 29$
+
+
+#acibench_D2N112_aci_clinicalnlp_taskB_test1#
+
+
+
+$medication, epidural steroid injection, to treat disk herniation and nerve root impingement, 31$
+$followup, physical therapy, to strengthen the area, 31$
+$followup, doctor's appointment, to follow up on treatment plan, 31$
+
+
+#primock57_5_7#
+
+
+
+$lab, check temperature with a thermometer, null, 123, 128$
+$medication, cough syrup, to settle cough at night, 144$
+$followup, monitoring of symptoms, if temperature's ongoing or cough gets worse, 130, 136$
+$medication, antibiotics, potentially if bacterial infection suspected, 134, 135$
+
+
+#acibench_D2N051_aci_train#
+
+
+
+$lab, arterial ultrasound of lower extremities, to see if there is adequate blood supply to heal the foot wound, 43$
+$followup, with primary care physician to get diabetes better controlled, to impact wound healing, 45$
+$followup, with cardiologist for coronary artery disease, to see if a procedure is needed, 47$
+$followup, with podiatrist for wound care, to improve wound care, 45$
+
+
+#acibench_D2N016_virtassist_train#
+
+
+
+$medication, increased Norvasc to 10mg, to manage hypertension, 130$
+$lab, echocardiogram, to assess heart function, 131$
+$lab, lipid panel, to assess cholesterol levels, 131$
+$followup, depression management, patient is doing well with current strategies, null$
+
+
+#acibench_D2N073_virtscribe_valid#
+
+
+
+$lab, iron and hematology workup, to assess for potential sources of anemia or gi bleed, 118, 119, 120, 121$
+$imaging, upper endoscopy and colonoscopy, to assess for potential sources of anemia or gi bleed, 89, 90, 121$
+$medication, ferrous sulfate 25 milligrams twice daily with orange juice, to help with iron deficiency anemia, 100, 101, 118$
+$followup, 8-12 weeks to reassess blood work, to evaluate effectiveness of treatment, 102, 119$
+
+
+#primock57_4_8#
+
+
+
+$lab, blood tests, to determine cause of low mood and fatigue, null, 218, 221$
+
+$followup, in-person appointment, to further investigate symptoms, null, 217, 221$
+
+$lab, blood tests, to determine cause of low mood and fatigue, null, 218, 221$
+
+
+#acibench_D2N006_virtassist_train#
+
+
+
+$lab, ultrasound of right upper quadrant, to rule out gallstones, 124$
+$medication, allopurinol, 100 milligrams, once daily, 130$
+$followup, continue pilates and using the knee, to monitor arthritis, 134$
+$lab, check some labs, to monitor condition, null$
+
+
+#acibench_D2N181_virtscribe_clef_taskC_test3#
+
+
+
+$medication, nexium 40 milligrams twice daily, to replace omeprazole for acid reflux, 106$
+$lab, upper endoscopy (egd), to look for potential causes of gerd, 107, 108, 114$
+$followup, follow-up appointment to discuss results and medication changes, null, 114$
+
+
+#acibench_D2N114_aci_clinicalnlp_taskB_test1#
+
+
+
+$imaging, MRI of the brain, to check for any other condition that could be contributing to your symptoms, 29$
+$lab, null, null, null$
+$medication, null, null, null$
+$followup, eye exam with a neuro-ophthalmologist, to evaluate the pressure in the brain and vision, 29$
+$imaging, spinal tap, to evaluate the pressure in the brain and help you feel better, 29$
+
+
+#primock57_3_4#
+
+
+
+$medication, increased Clenil to four puffs twice a day, to manage asthma symptoms, turn_id: 131, 134, 144$
+$medication, use Salbutamol inhaler every 2-4 hours as needed, to manage asthma symptoms, turn_id: 123, 125, 135, 151$
+$followup, face-to-face appointment with GP, to assess asthma symptoms, turn_id: 150$
+$medication, possible antibiotics and steroids, to treat potential infection, turn_id: 142$
+
+
+#acibench_D2N066_aci_train#
+
+
+
+$medication, naprosyn, to help with back pain, 44$
+$medication, flexeril, to help with back pain, 44$
+$medication, hydrochlorothiazide, to address swelling in legs, 46$
+$lab, hemoglobin a1c, to check blood sugar control, 28, 46$
+$lab, cbc, to check overall health, 46$
+$lab, bmp, to check kidney function, 46$
+$imaging, chest x-ray, to check for any lung issues, 46$
+$followup, physical therapy, to strengthen lower back muscles, 44$
+$medication, metformin, continue current medication for diabetes, 46$
+
+
+#acibench_D2N077_aci_valid#
+
+
+
+$medication, pain management, to manage pain, 60$
+$followup, checkup, to assess progress, 78$
+$medication, ultram, for pain management, 60$
+$imaging, x-ray, to confirm fracture, null$
+$followup, physical therapy, to regain strength, 60$
+
+
+#acibench_D2N187_aci_clef_taskC_test3#
+
+
+
+$medication, Lucentis injection, to treat neovascular age-related macular degeneration, [29]$
+
+$followup, regular follow-up to monitor vision and disease progression, null, [30]$
+
+
+#acibench_D2N046_aci_train#
+
+
+
+$lab, ca-125, null, 31$
+$lab, hcg, null, 31$
+$lab, afp, null, 31$
+$lab, ldh, null, 31$
+$followup, genetic counseling and testing, null, 31$
+$surgery, hysterectomy, null, 31$
+$surgery, remove both ovaries, null, 31$
+$surgery, lymph node dissection, null, 31$
+$medication, cisplatin, null, 31$
+$medication, taxol, null, 31$
+$followup, intraperitoneal chemo, null, 31$
+
+
+#primock57_1_6#
+
+
+
+$lab, blood test, to check for signs of anemia and kidney function, 229, 230$
+$medication, Furosemide, increase dose to one tablet twice a day, 205, 231$
+$followup, review of condition and adjustment of treatment plan, 232, 235$
+$imaging, echocardiogram, to see how well the heart is pumping, 212, 213$
+
+
+#acibench_D2N019_virtassist_train#
+
+
+
+$medication, Motrin, to treat lateral epicondylitis, 78$
+$medication, Epipen, for anaphylaxis, null$
+$followup, follow-up in a week if symptoms persist, null, 82$
+
+
+#acibench_D2N176_virtassist_clef_taskC_test3#
+
+
+
+$medication, Protonix 40 mg a day, to continue managing reflux, 100$
+$followup, Continue with lifestyle modifications and dietary changes, to manage reflux, 100$
+
+
+#acibench_D2N064_aci_train#
+
+
+
+$followup, ankle sprain, symptoms consistent with an ankle sprain of the lateral ligament complex, 23$
+$medication, NSAIDs, to help reduce pain and swelling, 23$
+$followup, follow-up appointment, to ensure patient is doing okay, 23$
+
+
+#acibench_D2N083_aci_valid#
+
+
+
+$medication, ibuprofen, to help alleviate elbow pain, 34$
+$followup, follow-up appointment, to check on elbow pain progress, 34$
+$medication, ibuprofen, for pain relief, 34$
+
+
+#acibench_D2N021_virtscribe_train#
+
+
+
+$medication, Unithroid, patient unable to afford, 14$
+$medication, clindamycin gel and benzoyl peroxide, acne treatment, 197, 198, 199, 200$
+$lab, liver enzymes, abnormal liver enzymes, 128, 130, 133, 210$
+$lab, vitamin D, deficiency, 118, 119, 120, 207, 208$
+$followup, weight loss study, potential participant, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189$
+
+
+#acibench_D2N153_aci_clinicalnlp_taskC_test2#
+
+
+
+$medication, Meloxicam 15mg once a day, To help with knee pain and inflammation, 48$
+$followup, Physical therapy referral, To strengthen knee muscles and prevent future injuries, 56$
+$imaging, MRI (potential), To further assess knee injury if pain persists, 56$
+$medication, Ibuprofen (already being taken), For pain management, 18, 53$
+
+
+#acibench_D2N094_virtassist_clinicalnlp_taskB_test1#
+
+
+
+$medication, Mobic, 15 milligrams once a day for 14 days, to treat sprained DIP joint of right index finger$
+$followup, check if the sprained DIP joint of right index finger is healed, null, 66$
+
+
+#acibench_D2N193_aci_clef_taskC_test3#
+
+
+
+$lab, COVID-19 test, to check for COVID-19, 57$
+$medication, metformin, continue taking for type 2 diabetes, 25$
+$medication, hydrochlorothiazide, increase dose to 25mg once a day for high blood pressure, 61$
+$medication, coricidin hbp, for cough, 57$
+
+
+#acibench_D2N001_virtassist_train#
+
+
+
+$medication, lisinopril 40mg, to control high blood pressure and congestive heart failure, because patient's blood pressure is high and patient is retaining a little bit of fluid, 103, 104$
+$medication, lasix 20mg, to control congestive heart failure, because patient has congestive heart failure and is retaining fluid, 105$
+$followup, echocardiogram, to monitor heart function, because patient has a history of congestive heart failure and a low pumping function of the heart, 108, 94$
+$imaging, mammogram, for annual exam and breast cancer screening, because patient is due for a mammogram, 125$
+$medication, continue current medications for congestive heart failure, depression, and hypertension, null, 102$
+
+
+#primock57_2_8#
+
+
+
+$lab, blood tests, to check for infection or malaria, 153, 168$
+$followup, examination, to assess symptoms and determine urgency of blood tests, 150, 163$
+$lab, thick and thin blood films, to check for malaria, 168$
+
+
+#acibench_D2N144_virtscribe_clinicalnlp_taskC_test2#
+
+
+
+$followup, ongoing management of rheumatoid arthritis, patient has ongoing knee pain and swelling, 2, 12, 50, 54, 59$
+
+$lab, CMP levels check, to monitor side effects of Xeljanz, 77, 78$
+
+$medication, Xeljanz (11mg daily), for rheumatoid arthritis, 31, 32$
+
+$medication, Celebrex (200mg daily), for rheumatoid arthritis, 32, 34$
+
+$medication, Triamcinolone (80mg), for knee inflammation, 90$
+
+$imaging, X-ray of the knee, to investigate cause of swelling, 50, 58$
+
+
+#primock57_3_5#
+
+
+
+$medication, Labyrinthitis medication, to help with middle ear stability and alleviate symptoms, 107$
+
+$followup, Doctor's appointment to examine the patient's ears and assess their condition, to take a look inside your ears to just make sure, 108, 125$
+
+$lab, Blood pressure check, just examine your, you know, you know, how your walking and everything is, 111$ 
+
+imaging is not mentioned in the conversation. 
+
+Note that there is only one clear clinical order in the provided transcript.
+
+
+#acibench_D2N132_virtassist_clinicalnlp_taskC_test2#
+
+
+
+$medication, Ibuprofen, as needed for pain, 72$
+$followup, Back pain, if symptoms persist or worsen, 77$
