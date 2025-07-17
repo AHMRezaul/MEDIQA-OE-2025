@@ -1,0 +1,12 @@
+pip>=23.0
+transformers
+accelerate
+pillow
+tqdm
+deepspeed
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision --index-url https://download.pytorch.org/whl/cu121
+torchaudio --index-url https://download.pytorch.org/whl/cu121
+datasets
+peft
+bitsandbytes
