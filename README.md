@@ -6,10 +6,11 @@ This repository contains a pipeline for extracting structured medical orders fro
 
 The dataset is taken from the following publication:
 ```
-@article{MEDIQA-WV-2025-WoundcareVQA-Dataset,
-author    = {Wen{-}wai Yim and Asma {Ben Abacha} and Robert Doerning and Chia{-}Yu Chen and Jiaying Xu and Anita Subbarao and Zixuan Yu and Fei Xia and M Kennedy Hall and Meliha Yetisgen},
-title     = {WoundcareVQA: A Multilingual Visual Question Answering Benchmark Dataset for Wound Care},
-journal      = {Journal of Biomedical Informatics}, 
+@article{MEDIQA-OE-2025-SIMORD-Dataset,
+author    = {Jean{-}Philippe Corbeil and Asma {Ben Abacha} and George Michalopoulos and Phillip Swazinna and Miguel Del{-}Agua and Jérôme Tremblay and Akila Jeeson Daniel and Cari Bader and Yu{-}Cheng Cho and Pooja Krishnan and Nathan Bodenstab and Thomas Lin and Wenxuan Teng and Francois Beaulieu and Paul Vozila}, 
+title     = {Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications},
+journal   = {CoRR}, 
+eprinttype= {arXiv},
 year      = {2025}}
 ```
 ## 🚀 Running the Pipeline
