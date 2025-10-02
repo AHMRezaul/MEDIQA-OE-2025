@@ -4,11 +4,14 @@ This repository contains a pipeline for extracting structured medical orders fro
 
 ## 📁 Dataset
 
-The `data/` directory contains the dataset files used for few-shot prompting and evaluation:
-
-- `train.json`: Contains few-shot exemplars extracted from the full dataset.
-- `test_output_data.json`: Used for evaluation; contains the `id` and `transcript` fields for each test instance.
-
+The dataset is taken from the following publication:
+```
+@article{MEDIQA-WV-2025-WoundcareVQA-Dataset,
+author    = {Wen{-}wai Yim and Asma {Ben Abacha} and Robert Doerning and Chia{-}Yu Chen and Jiaying Xu and Anita Subbarao and Zixuan Yu and Fei Xia and M Kennedy Hall and Meliha Yetisgen},
+title     = {WoundcareVQA: A Multilingual Visual Question Answering Benchmark Dataset for Wound Care},
+journal      = {Journal of Biomedical Informatics}, 
+year      = {2025}}
+```
 ## 🚀 Running the Pipeline
 
 1. **Set up the environment**
